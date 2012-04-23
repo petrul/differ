@@ -1,4 +1,3 @@
-differ
-======
+Differences between digital objects
 
-Copunting differences between digital objects
+
